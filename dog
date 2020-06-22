@@ -84,6 +84,6 @@ else:
     try:
         dog(choice, target)
     except KeyboardInterrupt:
-     printf(" please Subscribe  Our Channel ")
+   
       
-        quit('')
+quit('')
